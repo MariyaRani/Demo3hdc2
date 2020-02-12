@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="hdc2demo.FacebookDemo"/>
+      <class name="hdc2demo.Handson1"/>
+      <class name="hdc2demo.Handson3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

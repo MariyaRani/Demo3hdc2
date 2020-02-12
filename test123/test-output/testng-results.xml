@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23465" started-at="2020-02-11T06:45:38 UTC" finished-at="2020-02-11T06:46:02 UTC">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23465" started-at="2020-02-11T06:45:38 UTC" finished-at="2020-02-11T06:46:02 UTC">
+      <class name="casestudy.CaseStudy5">
+        <test-method status="PASS" signature="testLogin()[pri:2, instance:casestudy.CaseStudy5@2a17b7b6]" name="testLogin" duration-ms="10107" started-at="2020-02-11T06:45:38 UTC" finished-at="2020-02-11T06:45:48 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testCart()[pri:3, instance:casestudy.CaseStudy5@2a17b7b6]" name="testCart" duration-ms="6308" started-at="2020-02-11T06:45:48 UTC" finished-at="2020-02-11T06:45:55 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCart -->
+        <test-method status="PASS" signature="testPayment()[pri:4, instance:casestudy.CaseStudy5@2a17b7b6]" name="testPayment" duration-ms="6985" started-at="2020-02-11T06:45:55 UTC" finished-at="2020-02-11T06:46:02 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPayment -->
+      </class> <!-- casestudy.CaseStudy5 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
